@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Password Registration</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="password_should_be">Password Should Be</string>
+    <string name="at_least">At least 8 character </string>
+    <string name="Min">Minimum one uppercase</string>
+    <string name="One_Sym">At least one symbol</string>
+    <string name="One_num">At least one number</string>
+    <string name="checked">Checked</string>
 </resources>
